@@ -67,7 +67,7 @@ export default function Layout() {
       {/* HEADER */}
       <div className="hidden lg:block z-50 absolute top-0 w-full p-4 bg-black border-b border-dashed">
         <h1 className="text-2xl text-center font-bold">
-          DSV PROJECT 2023
+          DATA VISUALIZATION PROJECT 2023
         </h1>
       </div>
       {/* MOBILE HEADER */}
